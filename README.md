@@ -1,7 +1,7 @@
 # WSC Children's Prayers
 
-A simple cross-platform (iOS + Android) app presenting the 107 children's prayers
-from the Westminster Shorter Catechism, one per screen.
+A simple cross-platform (iOS + Android) app presenting 107 children's prayers
+based on the Westminster Shorter Catechism, one per screen.
 
 - **Swipe left** → next prayer, **swipe right** → previous (bounded at 1 and 107).
 - **All Prayers** menu to jump to any prayer.
