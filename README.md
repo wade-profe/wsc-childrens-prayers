@@ -22,6 +22,11 @@ npx expo start
 Then scan the QR code with **Expo Go** (Android) or the Camera app (iOS), or press
 `i` / `a` to launch an iOS simulator / Android emulator.
 
+## Build & install
+
+For standalone builds and device/store installs (Expo Go, EAS Build, local
+builds), see [docs/BUILD_AND_INSTALL.md](docs/BUILD_AND_INSTALL.md).
+
 ## Regenerate prayer data
 
 Prayer text lives in `assets/prayers.json`, generated from the source PDF:
