@@ -15,7 +15,7 @@ export default function PrayerMenu({ navigation }: Props) {
 
   const onSelect = useCallback(
     (index: number) => {
-      navigation.navigate('Pager', { goToIndex: index });
+      navigation.popTo('Pager', { goToIndex: index });
     },
     [navigation]
   );
